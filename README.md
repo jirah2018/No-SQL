@@ -22,3 +22,5 @@ The data given in the establishments.json file was imported using Terminal with 
 -How many establishments in each Local Authority area have a hygiene score of 0?
 
 -There are 55 rows in the DataFrame. This is the preview of the first 10 rows:
+
+"C:\Users\laarn\Pictures\nosql.png"
