@@ -23,4 +23,5 @@ The data given in the establishments.json file was imported using Terminal with 
 
 -There are 55 rows in the DataFrame. This is the preview of the first 10 rows:
 
-"C:\Users\laarn\Pictures\nosql.png"
+![nosql](https://github.com/jirah2018/No-SQL/assets/151040384/9e7c16bd-8c70-487d-bb2d-42ec8dc07173)
+
