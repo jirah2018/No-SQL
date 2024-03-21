@@ -1,9 +1,12 @@
 # No-SQL
 
-***Eat Safe, Love**
+***Eat Safe, Love***
+
+
 The NoSQL_setup.ipynb sets up and updates the database. The NoSQL_analysis.ipynb queries relevant information for analyses and converts results into Pandas DataFrame. 
 
 The data given in the establishments.json file was imported using Terminal with mongoimport --type json -d uk_food -c establishments --drop --jsonArray establishments.json.
+
 
 ***Analysis***
 
